@@ -1,5 +1,3 @@
-# us-stock-returns-dashboard
-
 # 📈 US Stock Returns Dashboard
 
 An interactive Streamlit web application that analyzes historical returns for US-listed stocks.
